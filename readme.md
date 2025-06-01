@@ -1,7 +1,7 @@
 <!-- 
     Commit:
 
-:sunglasses: Little Banner for GitHub
+:sunglasses: Social Banners for GitHub
 Update:
 
 -->
